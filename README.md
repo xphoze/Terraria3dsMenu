@@ -59,7 +59,7 @@ The how and why of every step, including each bug, is in [HOW_IT_WORKS.md](HOW_I
 - World-generation helpers (a few marked *untested*)
 
 **NPCs and bosses**
-- A boss page with the game's boss list, including **Ocram**, the mobile-exclusive boss, and **Lepus**, the Easter boss
+- A boss page with the game's boss list, including **Ocram** which is mobile-era content that never came to PC and **Lepus**, the Easter boss
 - Spawn enemies, spawn town NPCs, spawn all bosses/slimes/worms, clear enemies/NPCs/items, enemy spawns on/off
 
 **Build tools**
