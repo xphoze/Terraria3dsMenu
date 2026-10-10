@@ -37,7 +37,7 @@ The how and why of every step, including each bug, is in [HOW_IT_WORKS.md](HOW_I
 
 ## Features
 
-**28 pages, 341 buttons, 78 of the game's ~87 console commands.**
+**28 pages, 341 buttons, 83 of the game's 87 console commands** (any other one through **Type a command...**).
 
 **Items** (116 give-item buttons)
 - Unlock all recipes, reforge all items, infinite buckets, vanity masks, hallowed items
@@ -75,11 +75,13 @@ The how and why of every step, including each bug, is in [HOW_IT_WORKS.md](HOW_I
 
 ## Install
 
-You need your **own dump** of the game. This repo contains no game files and never should.
+You need the **US version of Terraria with the v5.6.0 update installed**. You do **not** need to dump anything, the patch is one small file and this repo contains no game files (and never should).
 
-- **Luma3DS:** put the patch at `/luma/titles/000400000016A900/code.ips` and turn on **Enable game patching** in the Luma config
+- **Luma3DS:** download `Terraria3dsMenu_install_SD-root.zip` from [Releases](https://github.com/xphoze/Terraria3dsMenu/releases) and unzip it onto the root of your SD card
+  (it puts the patch at `/luma/titles/000400000016A900/code.ips`). Then turn on **Enable game patching** in the Luma config
   (hold **Select** while booting).
-- **Azahar:** put it at `<user folder>/load/mods/000400000016A900/exefs/code.ips`.
+- **Azahar:** download `terraria3ds-menu-usa-5.6.0.ips` from [Releases](https://github.com/xphoze/Terraria3dsMenu/releases), rename it to `code.ips` and put it at
+  `<user folder>/load/mods/000400000016A900/exefs/code.ips`.
 
 Built for the **US release, update v5.6.0 (in-game v1.0.5)** only. Other regions and versions will not work and should not be patched.
 
