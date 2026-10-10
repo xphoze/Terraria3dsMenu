@@ -1,9 +1,9 @@
 # Terraria3dsMenu
-a mod menu for o3ds and n3ds terraria!
+a mod menu testing and working on o3ds terraria!
 
 so i started a project early morning 10/10 wanting to add mods similar to tmodloader to add either quality of life or new features that didnt make the final cut for the 3ds. during that whole process i asked claude sonnet 5.5 to reverse engineer my dumped terraria files and it happened to find its own compiled in dev settings on the retail version that wasnt accessible at first. now this list is gonna be pretty long and i told claude to explain what happened here. so heres claudeeeee
 
-FYI: please tell me what needs to be fixed or added and ill do it asap 🙏
+FYI: n3ds is untested as i do not own one and also please tell me what needs to be fixed or added and ill do it asap 🙏
 
 
 
